@@ -48,16 +48,22 @@ Manual fact-checking is too slow to match the speed at which misinformation spre
 
 ## 🛠️ Project Structure
 ├── data/
+|
 │ └── cleaned_fakenews.csv
+|
 ├── notebooks/
-│ └── FakeNewsDetection.ipynb
-├── models/
+|
+│
+|└── FakeNewsDetection.ipynb
+├
+|── models/
 │ └── tfidf_model.pkl (optional)
-├── README.md
-├── LICENSE
-└── requirements.txt
-
----
+├
+|── README.md
+├
+|── LICENSE
+|
+|── requirements.txt
 
 ## 📈 Methodology
 
