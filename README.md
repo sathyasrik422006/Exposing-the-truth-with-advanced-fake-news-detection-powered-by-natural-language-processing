@@ -48,22 +48,18 @@ Manual fact-checking is too slow to match the speed at which misinformation spre
 
 ## 🛠️ Project Structure
 ├── data/
-|
-│ └── cleaned_fakenews.csv
-|
+│   └── cleaned_fakenews.csv             # Dataset file
 ├── notebooks/
-|
-│
-|└── FakeNewsDetection.ipynb
-├
-|── models/
-│ └── tfidf_model.pkl (optional)
-├
-|── README.md
-├
-|── LICENSE
-|
-|── requirements.txt
+│   └── FakeNewsDetection.ipynb          # Main Jupyter notebook with code
+├── models/
+│   └── tfidf_model.pkl                  # Saved model (optional)
+├── visuals/
+│   └── wordclouds/, confusion_matrix/   # Plots and charts (optional)
+├── README.md                            # Project documentation
+├── LICENSE                              # Project license (MIT)
+├── requirements.txt                     # Python dependencies
+└── .gitignore                           # Files and folders to ignore in Git
+
 
 ## 📈 Methodology
 
