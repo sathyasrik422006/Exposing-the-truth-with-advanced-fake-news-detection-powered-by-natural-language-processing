@@ -110,6 +110,8 @@ Manual fact-checking is too slow to match the speed at which misinformation spre
 | **K Sathya Sri**    | Feature Engineering, Model Development                    |
 | **S Sathya Priya**  | Hyperparameter Tuning, Model Evaluation, Report Writing   |
 
+**college name**: Sri Ramanujar Engineering College
+
 ---
 
 ## 🔗 Repository Link
